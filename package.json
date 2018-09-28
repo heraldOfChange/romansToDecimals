@@ -1,0 +1,19 @@
+{
+  "name": "romantodecial",
+  "version": "1.0.0",
+  "description": "roman conversion to decial using TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest *test*"
+  },
+  "keywords": [
+    "tdd",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.6.0",
+    "jest": "^23.6.0"
+  }
+}
