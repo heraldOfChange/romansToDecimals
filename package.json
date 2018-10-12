@@ -1,7 +1,7 @@
 {
   "name": "romantodecial",
   "version": "1.0.0",
-  "description": "roman conversion to decial using TDD",
+  "description": "roman to decial converter using TDD",
   "main": "index.js",
   "scripts": {
     "test": "jest *test*"
