@@ -29,7 +29,8 @@ describe('class Foo', () => {
             ['DMCI', (1000 - 500) + 100 + 1],
             ['LCXVII', (100 - 50) + 10 + 5 + 1 + 1],
             ['MMVI', 1000 + 1000 + 5 + 1],
-            ['MCMXLIV', 1000 + (1000 - 100) + (50 - 10) + (5 - 1)]
+            ['MCMXLIV', 1000 + (1000 - 100) + (50 - 10) + (5 - 1)],
+            ['MDMDXLCVI', 1000 + (1000 - 500) + 500 + 10 + (100 - 50) + 5 + 1]
         ].forEach(keyvalpair => {
             const key = keyvalpair[0];
             const expected = keyvalpair[1];
