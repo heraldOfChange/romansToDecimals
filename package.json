@@ -4,7 +4,7 @@
   "description": "roman to decial converter using TDD",
   "main": "index.js",
   "scripts": {
-    "test": "jest *test*"
+    "test": "jest --color=true ./*.test.js"
   },
   "keywords": [
     "tdd",
@@ -14,6 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "eslint": "^5.6.0",
-    "jest": "^23.6.0"
+    "jest": "^26.6.1"
   }
 }
